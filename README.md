@@ -1,6 +1,6 @@
 # 170-Project-Social-Media-Sentiment-Analysis-vs.-Approval-Rate
 
-To review the project as described in submission requirement, please use the notebook file in Demo folder and do not change structure of folders.
+**To review the project as described in submission requirement, please use the notebook file in Demo folder and do not change structure of folders.**
 
 
 All the Jupyter notebooks of this project are in Scrpts folder.
